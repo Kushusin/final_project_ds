@@ -1,0 +1,6 @@
+---
+title: "Tesla Stock Data Project"
+author: "Kushagra Singh"
+format: html
+---
+
